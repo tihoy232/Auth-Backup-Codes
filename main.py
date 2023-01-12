@@ -14,7 +14,7 @@ a) jika Anda menghubungi perselisihan, mereka akan memberi Anda respons bot gene
 b) Anda mungkin berkata, baiklah itu masalah Anda, dan saya setuju, namun jika Anda mengirim email dukungan, mereka akan memberi tahu Anda: ups kami tidak dapat melakukan apa-apa, atau HAPUS AKUN ANDA, seperti bruh, itu seharusnya berbicara sendiri
 
 Source : 1. SpaghettDev
-		 2. PALGET666
+	 2. PALGET666
 """
 from os import getcwd
 from time import sleep
